@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\HOMEWORK_2.exe.config
+C:\Users\user\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\HOMEWORK_2.exe
+C:\Users\user\source\repos\HOMEWORK_2\HOMEWORK_2\bin\Debug\HOMEWORK_2.pdb
+C:\Users\user\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\HOMEWORK_2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\HOMEWORK_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\HOMEWORK_2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\HOMEWORK_2.exe
+C:\Users\user\source\repos\HOMEWORK_2\HOMEWORK_2\obj\Debug\HOMEWORK_2.pdb
