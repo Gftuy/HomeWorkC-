@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Praktic\Third_Mission\bin\Debug\Third_Mission.exe.config
+C:\Users\user\source\repos\Praktic\Third_Mission\bin\Debug\Third_Mission.exe
+C:\Users\user\source\repos\Praktic\Third_Mission\bin\Debug\Third_Mission.pdb
+C:\Users\user\source\repos\Praktic\Third_Mission\obj\Debug\Third_Mission.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Praktic\Third_Mission\obj\Debug\Third_Mission.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Praktic\Third_Mission\obj\Debug\Third_Mission.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Praktic\Third_Mission\obj\Debug\Third_Mission.exe
+C:\Users\user\source\repos\Praktic\Third_Mission\obj\Debug\Third_Mission.pdb

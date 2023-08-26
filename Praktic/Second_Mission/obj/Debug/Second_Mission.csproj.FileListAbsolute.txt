@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Praktic\Second_Mission\bin\Debug\Second_Mission.exe.config
+C:\Users\user\source\repos\Praktic\Second_Mission\bin\Debug\Second_Mission.exe
+C:\Users\user\source\repos\Praktic\Second_Mission\bin\Debug\Second_Mission.pdb
+C:\Users\user\source\repos\Praktic\Second_Mission\obj\Debug\Second_Mission.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Praktic\Second_Mission\obj\Debug\Second_Mission.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Praktic\Second_Mission\obj\Debug\Second_Mission.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Praktic\Second_Mission\obj\Debug\Second_Mission.exe
+C:\Users\user\source\repos\Praktic\Second_Mission\obj\Debug\Second_Mission.pdb
