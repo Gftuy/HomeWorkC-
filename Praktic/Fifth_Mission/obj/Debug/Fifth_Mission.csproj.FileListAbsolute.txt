@@ -6,3 +6,11 @@ C:\Users\user\source\repos\Praktic\Fifth_Mission\obj\Debug\Fifth_Mission.csproj.
 C:\Users\user\source\repos\Praktic\Fifth_Mission\obj\Debug\Fifth_Mission.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\Praktic\Fifth_Mission\obj\Debug\Fifth_Mission.exe
 C:\Users\user\source\repos\Praktic\Fifth_Mission\obj\Debug\Fifth_Mission.pdb
+C:\Users\user\Documents\GitHub\HomeWorkC-\Praktic\Fifth_Mission\bin\Debug\Fifth_Mission.exe.config
+C:\Users\user\Documents\GitHub\HomeWorkC-\Praktic\Fifth_Mission\bin\Debug\Fifth_Mission.exe
+C:\Users\user\Documents\GitHub\HomeWorkC-\Praktic\Fifth_Mission\bin\Debug\Fifth_Mission.pdb
+C:\Users\user\Documents\GitHub\HomeWorkC-\Praktic\Fifth_Mission\obj\Debug\Fifth_Mission.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\HomeWorkC-\Praktic\Fifth_Mission\obj\Debug\Fifth_Mission.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\GitHub\HomeWorkC-\Praktic\Fifth_Mission\obj\Debug\Fifth_Mission.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\HomeWorkC-\Praktic\Fifth_Mission\obj\Debug\Fifth_Mission.exe
+C:\Users\user\Documents\GitHub\HomeWorkC-\Praktic\Fifth_Mission\obj\Debug\Fifth_Mission.pdb
