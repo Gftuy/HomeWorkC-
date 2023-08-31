@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\4.8\Third_Missions\bin\Debug\Third_Missions.exe.config
+C:\Users\user\source\repos\4.8\Third_Missions\bin\Debug\Third_Missions.exe
+C:\Users\user\source\repos\4.8\Third_Missions\bin\Debug\Third_Missions.pdb
+C:\Users\user\source\repos\4.8\Third_Missions\obj\Debug\Third_Missions.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\4.8\Third_Missions\obj\Debug\Third_Missions.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\4.8\Third_Missions\obj\Debug\Third_Missions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\4.8\Third_Missions\obj\Debug\Third_Missions.exe
+C:\Users\user\source\repos\4.8\Third_Missions\obj\Debug\Third_Missions.pdb
